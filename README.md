@@ -6,3 +6,10 @@ What if Hannibal went by sea, or employed the help of neighboring North African 
 You play as an omniscient third person viewer, making choices that can potentially alter the fate of the Mediterranean forever. 
 
 Navigate to "Releases," and download the latest release with the correct file for your system. Please forward feedback to scissorbooks on Discord as we prepare for an itch.io release. ^^ Happy playing!
+
+Contributing team:
+Mia Hammett (Sound Designer)
+Deep Patel (Lead Programmer)
+Ajay Dave (Writer/Narrative Design, Programming)
+Aloise Jiang (Art Director, Character Artist)
+Kiara Hall (Background Artist)
